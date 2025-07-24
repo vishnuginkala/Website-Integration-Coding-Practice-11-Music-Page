@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-background {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    height: 110vh;
+    background-size: cover;
+    text-align: center;
+    font-family: "Bree Serif";
+    padding: 20px;
+}
+
+.home-top {
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.home-top-heading {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.home-top-description {
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.home-bottom-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 150px;
+    width: 300px;
+    background-size: cover;
+}
+
+.home-bottom-card-heading {
+    font-size: 25px;
+    color: #ffe7bf;
+}
+
+.home-bottom-description {
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 25px;
+    width: 80px;
+    font-size: 11px;
+    border-width: 0px;
+}
+
+.home-bottom {
+    margin: 20px;
+    margin-top: 70px;
+}
+
+.details-page {
+    background-color: #03174c;
+    font-family: "Bree Serif";
+}
+
+.details-page-top-image {
+    height: 45vh;
+    width: 100vw;
+}
+
+.details-page-mn-heading {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.details-page-description {
+    font-size: 12px;
+    color: #98a1bd;
+}
+
+.details-page-heading {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.details-page-bottom-image {
+    height: 90px;
+    width: 130px;
+}
+
+.details-page-bottom-card {
+    padding: 20px;
+}
+
+.back-button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 25px;
+    width: 80px;
+    font-size: 11px;
+    border-width: 0px;
+    margin: 20px;
+}
